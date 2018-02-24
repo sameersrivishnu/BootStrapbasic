@@ -1,0 +1,43 @@
+.container-fluid
+{
+	padding-top: 0px;
+	padding-left: 200px;
+	background-color:#d3d3d3;
+}	
+.
+.col-lg-4
+{
+
+	display: block;
+	z-index: -1;
+}
+.row
+{
+	height: auto;
+	margin-left: 140px;
+	margin-right: 150px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	font-size: 13px;
+
+}
+.btn-custom 
+{  
+    background-color:#cdcdc1;
+    border-radius: 100%;
+    border-width: 25px;
+    
+}
+.glyphicon 
+{
+	font-size: 40px;
+}
+.panel-footer
+{
+	background-color:#303030; 
+	margin-top: 50px;
+}
+body
+{
+	background-color:#e6e6fa;
+}
